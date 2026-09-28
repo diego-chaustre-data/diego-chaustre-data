@@ -1,6 +1,6 @@
 ## Hola, soy Diego Angel Chaustre Baena 👋
 
-**Aprendiz del tecnólogo en Implementación y Gestión de Bases de Datos · SENA**
+**Aprendiz del tecnólogo en Implementación y Gestión de Bases de Datos · SENA**<br>
 📍 Cúcuta, Colombia · Disponible para trasladarme a otra ciudad o país
 
 Uso la inteligencia artificial como copiloto para **diseñar, proteger y automatizar datos**, y verifico cada resultado con criterio propio.
