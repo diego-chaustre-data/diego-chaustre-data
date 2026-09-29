@@ -20,7 +20,7 @@ En el portafolio puede **consultar en vivo una base de datos** que diseñé, pro
 
 ### 🎓 Formación
 
-- Tecnólogo en Implementación y Gestión de Bases de Datos, SENA (en curso)
+- Tecnólogo en Implementación y Gestión de Bases de Datos, SENA · formación virtual (en curso)
 - Curso certificado SENA: *Bases de datos: generalidades y sistemas de gestión* (40 h, 2026)
 - Inglés B2
 
