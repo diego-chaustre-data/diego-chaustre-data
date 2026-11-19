@@ -16,16 +16,19 @@ En el portafolio puede **consultar en vivo una base de datos** que diseñé, pro
 - **Diseño de datos:** modelo relacional de una app de movilidad en PostgreSQL (8 tablas, 18 políticas de seguridad por fila, funciones y triggers).
 - **Protección de datos:** auditoría de seguridad de datos personales, alineada con la Ley 1581.
 - **Automatización:** pedidos que viajan solos de la tienda a la API logística y al panel contable.
-- **Consultas:** SELECT, filtros, agregaciones, GROUP BY, HAVING y JOIN en MySQL y PostgreSQL.
+- **Consultas:** filtros, agregaciones, GROUP BY, HAVING, Top-N y JOIN (incluidos self join y non-equi join) en Oracle, MySQL y PostgreSQL. [Mi práctica en Oracle →](https://github.com/diego-chaustre-data/sql-oracle-hr)
+- **Servidores:** Windows Server 2016 en VirtualBox, Ubuntu con WSL 2, PowerShell y fundamentos de redes (laboratorios del SENA).
 
 ### 🎓 Formación
 
 - Tecnólogo en Implementación y Gestión de Bases de Datos, SENA · formación virtual (en curso)
 - Curso certificado SENA: *Bases de datos: generalidades y sistemas de gestión* (40 h, 2026)
+- Oracle Academy: *Programación de Bases de Datos con SQL* (AvanzaTEC, MinTIC · en curso)
 - Inglés B2
 
 ### 🛠️ Herramientas
 
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
